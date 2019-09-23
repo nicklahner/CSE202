@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d8ab78e6-f298-465e-8e9d-cb170a7cd2fa" name="Sunlab (project level)" url="http://sunlab.cse.lehigh.edu">
+        <fileTransfer host="sunlab.cse.lehigh.edu" port="22" rootFolder="/home/gnr220/CSE202/ShellLab/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
